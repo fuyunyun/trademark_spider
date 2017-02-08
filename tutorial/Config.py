@@ -1,0 +1,13 @@
+#coding=utf-8
+DBHOST='127.0.0.1'
+DBPORT=3306
+DBUSER='root'
+DBPWD='root'
+DBNAME='ip'
+DBCHAR='utf8'
+threadsnum=30
+savepath='/court_app'
+timeout=20
+successtag=1
+failuretag=2
+maxcount=5
